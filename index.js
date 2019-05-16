@@ -9,7 +9,7 @@ var dashboard = new ParseDashboard({
   //let localParseServer = 'http://localhost:1337/parse';
 
   // Heroku requires HTTPS. Please read the README file for details.
-  let herokuParseServer = 'https://caixatem-parse-server.herokuapp.com/parse';
+  //let herokuParseServer = 'https://caixatem-parse-server.herokuapp.com/parse';
 
   apps: [
     {
